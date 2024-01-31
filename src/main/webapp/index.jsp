@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Welcome to SRI VENKATESWARA UNIVERSITY </h2>
-  <h1>welcome to banglore</h1>
+  <h1>welcome to banglore1</h1>
   <h1>welcome DevOps class</h1>
   <h1>welcome world</h1>
 
